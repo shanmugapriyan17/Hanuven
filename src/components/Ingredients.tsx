@@ -52,7 +52,7 @@ export function Ingredients() {
           <div className="relative h-[400px]">
             <video
               ref={videoRef}
-              src="/src/assests/video/part1.mp4"
+              src="/images/video/part1.mp4"
               autoPlay
               loop
               muted

@@ -14,7 +14,7 @@ export function Footer() {
           <div className="lg:col-span-2">
             <a href="#" className="flex items-center gap-4 group flex-shrink-0 mb-4">
               <img
-                src="/src/assests/logo website.png"
+                src="/images/logo website.png"
                 alt="Hanuven Logo"
                 className="w-14 h-14 rounded-full object-cover transform group-hover:scale-105 transition-transform duration-[var(--timing-normal)] shadow-md"
               />

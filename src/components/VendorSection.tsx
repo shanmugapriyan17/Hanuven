@@ -29,7 +29,7 @@ export function VendorSection() {
                 {/* Background Image */}
                 <div className="absolute inset-0">
                     <img
-                        src="/src/assests/vendor_partnership.png"
+                        src="/images/vendor_partnership.png"
                         alt="Vendor Partnership"
                         className="w-full h-full object-cover"
                     />

@@ -87,7 +87,7 @@ export function SiddhaPower() {
             {/* Hero Video */}
             <div className="relative rounded-2xl overflow-hidden shadow-2xl">
               <video
-                src="/src/assests/video/olai chuvadi.mp4"
+                src="/images/video/olai chuvadi.mp4"
                 autoPlay
                 loop
                 muted
