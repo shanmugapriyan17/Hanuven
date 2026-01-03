@@ -24,7 +24,7 @@ const slides: Slide[] = [
     ],
     cta: "Explore Products",
     ctaLink: "#products",
-    image: "/src/assests/hero section 1 image.png",
+    image: "/images/hero section 1 image.png",
   },
   {
     title: "Strengthen, Restore, Regrow",
@@ -34,7 +34,7 @@ const slides: Slide[] = [
     tagline: "Transform Your Locks from Weak to Wow",
     cta: "REGAIN YOUR GLORY",
     ctaLink: "#products",
-    image: "/src/assests/hero section 2 image.png",
+    image: "/images/hero section 2 image.png",
   },
   {
     title: "HAIR PROBLEMS?",
@@ -47,7 +47,7 @@ const slides: Slide[] = [
     ],
     cta: "NOURISH YOUR HAIR",
     ctaLink: "#products",
-    image: "/src/assests/hero section 3 image.png",
+    image: "/images/hero section 3 image.png",
   },
 ];
 
